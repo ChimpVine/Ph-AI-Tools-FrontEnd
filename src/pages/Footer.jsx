@@ -101,14 +101,6 @@ export default function Footer() {
                                         English
                                     </NavLink>
                                 </li>
-                                <li>
-                                    <NavLink
-                                        className="content"
-                                        to={`${API_BASE_URL}/article/`}
-                                        target='_blank'>
-                                        Articles
-                                    </NavLink>
-                                </li>
                             </ul>
                         </div>
                         <div className="col-md-3 pt-3">
